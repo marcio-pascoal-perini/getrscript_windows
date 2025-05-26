@@ -16,3 +16,11 @@
 
 ### You will need the R open source software environment for statistical computing and graphics installed. 
 ### This software is available by accessing the website: https://www.r-project.org/
+
+# GetScript settings form
+
+![](images/i002.png?raw=true "GetScript settings form")
+
+### In the API Key field, enter the one obtained from the Google AI Studio website.
+### In the R path field, enter the path to the R.exe program.
+
