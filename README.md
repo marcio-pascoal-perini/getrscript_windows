@@ -24,3 +24,18 @@
 ### In the API Key field, enter the one obtained from the Google AI Studio website.
 ### In the R path field, enter the path to the R.exe program.
 
+# ==============================
+
+![](images/i003.png?raw=true "")
+
+![](images/i004.png?raw=true "")
+
+![](images/i005.png?raw=true "")
+
+![](images/i006.png?raw=true "")
+
+
+
+
+
+
