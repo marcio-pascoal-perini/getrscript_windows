@@ -1,7 +1,5 @@
 ![](images/i001.png?raw=true "GetRScript V 0.207 for Windows")
 
-## GetRScript V 0.207 for Windows
-
 Desktop application developed with the Java language and the JavaFX library.
 This application aims to access Google's Gemini AI with a specific prompt engineering so that it can generate scripts for the R programming language.
 The user of this application will be able to request the generation of graphs, data transformation, generation of maps, creation of web applications, etc. from Google's Gemini AI and, when possible, it will respond in a script in the R language.
